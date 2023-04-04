@@ -1,0 +1,2181 @@
+fileFormatVersion: 2
+guid: 11e0dadec93f36140842db316033dbff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1154
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df39cdf6e6bb0a048a3135959c483d54
+      internalID: -224299314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1154
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb2d9a082eb030b4a998d957394ac1ac
+      internalID: 1739955732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1154
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b17293fd0fd5414fa04a4029390bffd
+      internalID: -1568163966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1154
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6763dd73c32996e41a375739af6cf758
+      internalID: -1478683323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1154
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f688c1aae24f34488ea5ca38e93e8dd
+      internalID: -1955259133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1154
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b78eb2ca4f9d7943a6b86cb81ec3fc2
+      internalID: -1985793328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1154
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f11263bc1b3c1447a0619d45965f12a
+      internalID: 1691775660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1024
+        width: 20
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3272aca674502428a9e6abfcf92e90
+      internalID: 834212771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1024
+        width: 19
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cbeb116db1c34458f06b9d13e16337
+      internalID: -1557092030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1024
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44c9b90ea71f0141b3e6d3ba1f5352f
+      internalID: 1629767667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1024
+        width: 18
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5e9192390dd8648bd3ddbb61e75e81
+      internalID: -1733299036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1024
+        width: 21
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55115233c09200549976f5efac3ca8f0
+      internalID: -701993366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1024
+        width: 26
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd175b885a85a40bce0452d73bd9d2
+      internalID: 1496401161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 896
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc41dbac02b0ada4989779ef1ff3d598
+      internalID: 1366954096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 896
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc73da67a605bc94080148207b4a6407
+      internalID: 102198630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 896
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a121a26b0f3695428c3623e938fc5fc
+      internalID: -1845211266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 896
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e378f28e696f6c44a3ff911d76c1381
+      internalID: 1209853786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 896
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f244ef884bf67bd47b43e4a43472c9da
+      internalID: -366074641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 896
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48959009259f8494dbfe45bcf7b8d40f
+      internalID: -665006328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 896
+        width: 47
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff576b1e3c2faf47a6b4ab7b8cb3ebe
+      internalID: 1644768231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 896
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f939cbd14cd41ce42be0a9231ad08cd6
+      internalID: 1717575588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 768
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cbd3ee80f37314ebd38436d7cbfbaf
+      internalID: -2084382561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 768
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf46a97a5994d34cab438aa21e35282
+      internalID: -402722666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 768
+        width: 51
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18768415fe400994696bcd1ac66f3b5e
+      internalID: -108706160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 786
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3178b1b7aff6f44b6681064232f712
+      internalID: -370082700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 768
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78823f76e867b494fbba79e63e4654b7
+      internalID: 1586682869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 640
+        width: 36
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6a51a50ef40be6419c37d2aebcbdb85
+      internalID: -2015125834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 640
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd3f75b15b036044a607ae94f50b901
+      internalID: -792313432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 640
+        width: 78
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c7a9a9b37cfdf40b9df08ce91dd1c4
+      internalID: 744209626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 640
+        width: 82
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662c82f7a3b4ba74ea8eb7bf53b6cbb5
+      internalID: -1710020969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 512
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257a3259629199040ad458dc203dacf2
+      internalID: 1355870734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 512
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ab25a948048c541ac5639e55f8caf1
+      internalID: 1912859130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 512
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27a41caeacc6c046ac3cd1e33630c33
+      internalID: 1737484956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 512
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57a9c738c158ed4ba75f5e38f8ac34e
+      internalID: -1552803098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 512
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23622ce166bd8749ba11459921a552e
+      internalID: -1465885201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 512
+        width: 69
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48954f219314234ebb8ef66436a55d1
+      internalID: 1523043679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 512
+        width: 71
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896f668d87de4ef4db3832040eca537b
+      internalID: 986000185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 512
+        width: 76
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaad42dff3c16814d85ef81e4d83188f
+      internalID: -1880084560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 556
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0b96a6cb33d9a4f8a64835123a4519
+      internalID: 2138472701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 549
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08278a9b9d896104d943a48dd2edd5c6
+      internalID: -414636139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 542
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a628eb118a0894b8c09663993154d1
+      internalID: 1329492656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 543
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258b85124ee003b4ca896a050a9c915b
+      internalID: -586532942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 579
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7234b6dc9c345b34b98b4f60964520ef
+      internalID: 1622665396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 559
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea0cb47336b7d440bf822e5daf31a55
+      internalID: 474174123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 571
+        width: 67
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0871e11f7f0336940be65cd48f5b5826
+      internalID: 1824161671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 555
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2269fdcf4d848d4aba1fa610d657776
+      internalID: -2127466407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 556
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e2b544e7e043a41a4524bd9241add5
+      internalID: 1288010113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 555
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac44c97c764b2a4a87cef3f3f645e50
+      internalID: 2112482067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 562
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea88fbd6efa4c40408b4b890e50e2f28
+      internalID: -1204476746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 555
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fffd8cbcce41a94889dd17fa7c59b38
+      internalID: 20308369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 555
+        width: 33
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bbac4f33a29ba48b5f5a87d99cbbac
+      internalID: 23051022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 552
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44db7f87688e6af4ca93a762d8d5aa05
+      internalID: 1936431395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 564
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec6c8b14e7f8be4d9bce22063a4c5fe
+      internalID: 1716482211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 1697
+        y: 555
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e76dc027ac600d43b55e01cd132b117
+      internalID: -991501590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 456
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30d58fe071e1cc44b7a7b96cb093a06
+      internalID: 81491434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 456
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d670c72e5d7e8e449aeff5b313403f6
+      internalID: 1056166428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 458
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33493bf8af43c7440980aee2502f6b4a
+      internalID: -1156410688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 450
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7291f9fc25afd448e7ddb9e551b9fe
+      internalID: 829550857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 384
+        width: 115
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e9f06b067d6204cab4d9617291ff19
+      internalID: -1908876361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 384
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f6638a0d33ad34f8c9173ee8746fb1
+      internalID: -717499426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 384
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bed7b8f5303f549bdea2fbdf0e3449
+      internalID: -1832049606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 384
+        width: 46
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0187603524fc5f5468c876b65c1c46c9
+      internalID: -1265683655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 384
+        width: 74
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8caa912eb22fa949b3e36806c9c55e6
+      internalID: -1563580884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 384
+        width: 96
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf0e9666fac3d04ca776ed15e32475f
+      internalID: 184440912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 384
+        width: 114
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdab20685042ee4f9913028b4f6d5c5
+      internalID: -1223845257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 384
+        width: 115
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ddaaba400f59d448764acff4a51c03
+      internalID: 649034804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 384
+        width: 115
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7b21056d47e364cb01fc52c92bfd6d
+      internalID: -1839071999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 384
+        width: 115
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfa7b60bf75f3744a75c4a6d88c1e89
+      internalID: -1160458379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 384
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7187f112b72778e488fee73b501f7f51
+      internalID: 1834626109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_69
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 384
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec37b96f9cc4164ca4cdc0e80596468
+      internalID: 1347926991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_70
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 424
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bad74f373fc8644a04b3fe26fc6fae
+      internalID: -1451223950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_71
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 384
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedbdfbd086c65b4a8c818bc76a16cc7
+      internalID: -1812231438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_72
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 430
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcf5c293d2876f449cffdbc3f41b535
+      internalID: 1149287894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_73
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 436
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea2b6b776a2da44fb4928e6b4960da9
+      internalID: 1991511811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_74
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 384
+        width: 105
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad73d5a3e9fc5145b1ea96ee5167be6
+      internalID: -1807091216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 256
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e48233981f56d438ebe90ae1f8af23
+      internalID: -272985245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_76
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 256
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2867ab53f3cb3468e8130fda95a109
+      internalID: -1258750989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_77
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 256
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae1c341c10e942458cc23d41c387c5d
+      internalID: -272828862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_78
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 256
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec78b121da3d544a89b7e6742355d1d
+      internalID: 277380950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_79
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 268
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f81b34f26150864d8e61de46e743ce4
+      internalID: 945279873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_80
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 258
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688c574da02aece4b8a8d95c4909e3e3
+      internalID: -246458777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_81
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 256
+        width: 44
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a7e927162c9240bf3b24caebf7c62
+      internalID: 37258748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_82
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 256
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae0b61a53f9c574b89cf832f243e92c
+      internalID: 1119581612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_83
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 256
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee575e503093295438be4171f8236fb2
+      internalID: -231445147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_84
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ed68b2afd664b4f9b62790d90ee02f
+      internalID: 1354104958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6984974ab460c41be1705086875cf6
+      internalID: 1660667799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_86
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 128
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29cdba99e7529d4c830965faecb47ab
+      internalID: 811127001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_87
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da37a34f5a1c1d74aaedda3ecc2ebdc0
+      internalID: 1727973522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_88
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 0
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fec3478137b0e9499ae0f3bfe3b8190
+      internalID: 1955696115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_89
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 0
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5977c9d4161ea7f4e91a1e813d2f009d
+      internalID: -899220859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_90
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa04949ca330f0449bd7d34846d423a
+      internalID: -1327451114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_91
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d4bfc31b6618d478be23bd3c9b2117
+      internalID: 1188393992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_Mage_Spritelist_92
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e12ba756e7c754d9c0ddbc35a0778c
+      internalID: -1692540613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fire_Mage_Spritelist_3: -1478683323
+      Fire_Mage_Spritelist_9: 1629767667
+      Fire_Mage_Spritelist_39: -414636139
+      Fire_Mage_Spritelist_82: 1119581612
+      Fire_Mage_Spritelist_87: 1727973522
+      Fire_Mage_Spritelist_69: 1347926991
+      Fire_Mage_Spritelist_62: -1563580884
+      Fire_Mage_Spritelist_59: -717499426
+      Fire_Mage_Spritelist_23: -108706160
+      Fire_Mage_Spritelist_55: 1056166428
+      Fire_Mage_Spritelist_68: 1834626109
+      Fire_Mage_Spritelist_51: 1936431395
+      Fire_Mage_Spritelist_91: 1188393992
+      Fire_Mage_Spritelist_29: -1710020969
+      Fire_Mage_Spritelist_92: -1692540613
+      Fire_Mage_Spritelist_43: 474174123
+      Fire_Mage_Spritelist_24: -370082700
+      Fire_Mage_Spritelist_57: 829550857
+      Fire_Mage_Spritelist_28: 744209626
+      Fire_Mage_Spritelist_14: 102198630
+      Fire_Mage_Spritelist_88: 1955696115
+      Fire_Mage_Spritelist_76: -1258750989
+      Fire_Mage_Spritelist_71: -1812231438
+      Fire_Mage_Spritelist_10: -1733299036
+      Fire_Mage_Spritelist_80: -246458777
+      Fire_Mage_Spritelist_65: 649034804
+      Fire_Mage_Spritelist_74: -1807091216
+      Fire_Mage_Spritelist_0: -224299314
+      Fire_Mage_Spritelist_67: -1160458379
+      Fire_Mage_Spritelist_78: 277380950
+      Fire_Mage_Spritelist_16: 1209853786
+      Fire_Mage_Spritelist_77: -272828862
+      Fire_Mage_Spritelist_46: 1288010113
+      Fire_Mage_Spritelist_13: 1366954096
+      Fire_Mage_Spritelist_33: -1552803098
+      Fire_Mage_Spritelist_81: 37258748
+      Fire_Mage_Spritelist_52: 1716482211
+      Fire_Mage_Spritelist_83: -231445147
+      Fire_Mage_Spritelist_7: 834212771
+      Fire_Mage_Spritelist_35: 1523043679
+      Fire_Mage_Spritelist_6: 1691775660
+      Fire_Mage_Spritelist_2: -1568163966
+      Fire_Mage_Spritelist_17: -366074641
+      Fire_Mage_Spritelist_12: 1496401161
+      Fire_Mage_Spritelist_22: -402722666
+      Fire_Mage_Spritelist_11: -701993366
+      Fire_Mage_Spritelist_1: 1739955732
+      Fire_Mage_Spritelist_63: 184440912
+      Fire_Mage_Spritelist_45: -2127466407
+      Fire_Mage_Spritelist_5: -1985793328
+      Fire_Mage_Spritelist_75: -272985245
+      Fire_Mage_Spritelist_85: 1660667799
+      Fire_Mage_Spritelist_47: 2112482067
+      Fire_Mage_Spritelist_48: -1204476746
+      Fire_Mage_Spritelist_30: 1355870734
+      Fire_Mage_Spritelist_70: -1451223950
+      Fire_Mage_Spritelist_64: -1223845257
+      Fire_Mage_Spritelist_15: -1845211266
+      Fire_Mage_Spritelist_34: -1465885201
+      Fire_Mage_Spritelist_19: 1644768231
+      Fire_Mage_Spritelist_38: 2138472701
+      Fire_Mage_Spritelist_90: -1327451114
+      Fire_Mage_Spritelist_37: -1880084560
+      Fire_Mage_Spritelist_26: -2015125834
+      Fire_Mage_Spritelist_49: 20308369
+      Fire_Mage_Spritelist_42: 1622665396
+      Fire_Mage_Spritelist_54: 81491434
+      Fire_Mage_Spritelist_40: 1329492656
+      Fire_Mage_Spritelist_32: 1737484956
+      Fire_Mage_Spritelist_36: 986000185
+      Fire_Mage_Spritelist_53: -991501590
+      Fire_Mage_Spritelist_72: 1149287894
+      Fire_Mage_Spritelist_25: 1586682869
+      Fire_Mage_Spritelist_56: -1156410688
+      Fire_Mage_Spritelist_18: -665006328
+      Fire_Mage_Spritelist_21: -2084382561
+      Fire_Mage_Spritelist_89: -899220859
+      Fire_Mage_Spritelist_4: -1955259133
+      Fire_Mage_Spritelist_41: -586532942
+      Fire_Mage_Spritelist_79: 945279873
+      Fire_Mage_Spritelist_27: -792313432
+      Fire_Mage_Spritelist_60: -1832049606
+      Fire_Mage_Spritelist_66: -1839071999
+      Fire_Mage_Spritelist_44: 1824161671
+      Fire_Mage_Spritelist_84: 1354104958
+      Fire_Mage_Spritelist_58: -1908876361
+      Fire_Mage_Spritelist_86: 811127001
+      Fire_Mage_Spritelist_20: 1717575588
+      Fire_Mage_Spritelist_8: -1557092030
+      Fire_Mage_Spritelist_50: 23051022
+      Fire_Mage_Spritelist_61: -1265683655
+      Fire_Mage_Spritelist_73: 1991511811
+      Fire_Mage_Spritelist_31: 1912859130
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

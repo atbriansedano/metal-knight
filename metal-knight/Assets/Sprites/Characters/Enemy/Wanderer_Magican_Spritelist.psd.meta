@@ -1,0 +1,2797 @@
+fileFormatVersion: 2
+guid: 90cd58b9debb1154a98c242d7f88ec0d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1154
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3095a30434f2634a879f14a2167c726
+      internalID: -1755629677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1154
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa9b7a002f143e40990c56b50a1f673
+      internalID: -2023057056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1154
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f3586e1c1aa154fbac47c27c938629
+      internalID: 2030947392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1154
+        width: 46
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f987694c9f43ed946bd6e72942d11566
+      internalID: -1325098272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1154
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7729427bd52d9b344b5bf2b54c760ac3
+      internalID: -1613464154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_5
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1154
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586e98edcbe89c140a06df2623937a85
+      internalID: -1638353641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1154
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b94d00bce46389478c9e9d066522528
+      internalID: 143698095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_7
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1154
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7512e13312e355c4280a17b448e68532
+      internalID: 713944388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_8
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1024
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63cf871ceb4de41ac411c8f7398d8a
+      internalID: -1625174422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1024
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5bcce21e185a34cb2bdf6a43028191
+      internalID: 1538668988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_10
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1024
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465b61a25a858dc45948f4c20a36438c
+      internalID: -523521432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_11
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1024
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fe2bbd55bae1244902496dfcac0282
+      internalID: 1412259389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_12
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1024
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0926dfd658e6a5a488fd657034b39ac0
+      internalID: -215635514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_13
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1024
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8107af209fad3d440affd463b849255b
+      internalID: -1059727358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_14
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1024
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1c9f88b5c9b4a48a1f0ae6847b4a57
+      internalID: 1093523401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 895
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0208999280388a94a8b90b6b6a0d9c36
+      internalID: 382223548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 895
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6482aee6b394148a0b2cd12e01dc4c
+      internalID: 1539163464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 895
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6750009d011a8bc4b932e5d14b1b78de
+      internalID: 1101588253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_18
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 895
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666aba3bc4397e446974aa1739f813b5
+      internalID: 1789738991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_19
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 895
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73484f03ddfa2145a826cd7fd87a9a7
+      internalID: -501581282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_20
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 895
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4b072187c5a5d49a020b769e5e3d26
+      internalID: -214187688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_21
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 895
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed584f6838ee114b8a458395d4ce717
+      internalID: 1692499912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_22
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 895
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169ba6cb1f189549b18494ad17fc758
+      internalID: -613903615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_23
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 854
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdca49521b32be4696b133a1baefce8
+      internalID: 968670196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_24
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 862
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbc9436f49c54c48a58cc9502d8d6f4
+      internalID: 1929140097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_25
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 835
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f445926aac2a72744b4ccff03d28ba90
+      internalID: -431419426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_26
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 847
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543485c7604bda04b8223fc21d3bc8e7
+      internalID: -1885733439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_27
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 851
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3bd64718875c945b5754b44397ee6a
+      internalID: 1002628542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_28
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 767
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3269a727cfa7b44b154231ea4fe0cd
+      internalID: 219999349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_29
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 835
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d4f6040c4aac764380b257593f44967
+      internalID: 1769924287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_30
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 841
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8634f14a317a7204d9bc9994ea587c02
+      internalID: 1465470260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 767
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295d3a08631154f45bc6bba4d047e8c0
+      internalID: 1779994312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_32
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 767
+        width: 40
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20346d6ea0fd86428684a123b18ee66
+      internalID: 95002849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 767
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35032ff1183b9f64b9bdfba263761cf2
+      internalID: 202522967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_34
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 767
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8a7645cd5586d4f9d9ba3bd4bb236b
+      internalID: 507767694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_35
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 797
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3d789733139d34b86ee66875babd8e
+      internalID: -1027277436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_36
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 767
+        width: 77
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be92a986cff761428d9be3c380a3634
+      internalID: 1065239926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_37
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 792
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0299ebe37b5458e499c9fe36494608ad
+      internalID: -1239687394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 767
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d94d3be6b549324c888a7a04dce446f
+      internalID: -1675978477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_39
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 707
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eff6ee2392f964099e4d5fad907cc7
+      internalID: 936444468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_40
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 684
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691b4a4796e87174abfeba48ee0a7947
+      internalID: 30883731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_41
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 707
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d079c75877a9094b9583a5f857b4f11
+      internalID: 1204935150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_42
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 684
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594ceccc607c0884bbcd8dca5658cf22
+      internalID: -1070511435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_43
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 679
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042d3254189feca44bb490e05fbdadc3
+      internalID: 2096803280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_44
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 665
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0cae33f3851064f86b9afc8aaaf875
+      internalID: 1942225932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_45
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 685
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101818812ac9534418546bd2fc18ff73
+      internalID: -484695243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_46
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 705
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaa207588a229244a3628bba7bc51a2
+      internalID: 1503447760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_47
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 674
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b4f2847ad7bed46803d8ebdd728c33
+      internalID: 1533290840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_48
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 639
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1c5ce74365dc646b7815aa7e33693b
+      internalID: 231973621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 639
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afcbeed343aa5a46b4576aefc0babf9
+      internalID: -1530661671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_50
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 639
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47636bfe364462145aa120253b970d17
+      internalID: 1128773717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_51
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 639
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdcee290681989409bcbddfd014a79c
+      internalID: 1733483794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_52
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 639
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd01e5ed98513944fbf6811a61b14f1e
+      internalID: 1770425040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_53
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 639
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e0d1ebf6c1c7748a8b48f0b134406d
+      internalID: 2061022323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_54
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 639
+        width: 94
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6e77624235603418015908d45efe27
+      internalID: 1425803051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_55
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 639
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159c03b4e73388347b0d55843305b68c
+      internalID: -1392379453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_56
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 639
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f1b345714017445ac7adc43d9d3245
+      internalID: -987694958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_57
+      rect:
+        serializedVersion: 2
+        x: 2015
+        y: 689
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27e11136230c81438a23af116f16f84
+      internalID: -1286504330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_58
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 687
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f478f4820ca0847a9cecfd9d1a2943
+      internalID: -1371123565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_59
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 687
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76df6a42776c30143a279d9c556c6dec
+      internalID: -1551917786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_60
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 689
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ac165e6aeedf8409c16c0237367259
+      internalID: -76097363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_61
+      rect:
+        serializedVersion: 2
+        x: 2260
+        y: 687
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6566bc2497226a43ad7fb61fa3bf1c3
+      internalID: -147975449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_62
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 690
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1014d7eabced2f6498d4e84837be0cc2
+      internalID: -1495683928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_63
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 692
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6fc717e5f58b04094206638f5f399d
+      internalID: 1829350696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_64
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 689
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4ee75aa8f074d4ab6dd323ef2c716d
+      internalID: -1723567107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_65
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 690
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c190cb43ead595d44a9bc27f98ee1b1f
+      internalID: -373054993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_66
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 671
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4006ac6d0e181c2418cbe17b13141f91
+      internalID: -1012670672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_67
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 671
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e69f173e407c34d8fbe7b3f418379b
+      internalID: 724132989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_68
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 674
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0649fed2f7fa35f478ccd2a28c78a0fc
+      internalID: 1269944268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_69
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 665
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b1cac1413af5a48ac9de0c27854843
+      internalID: -1985112953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_70
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 649
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e50ea77e3fc054db800e7119561399
+      internalID: 1964631982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_71
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 649
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9881e1a1e45e1a941ac9105bad34d028
+      internalID: 1429329820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 511
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df974eaf930e62140abb1a47a81a2753
+      internalID: -1123430198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_73
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 511
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84bdbc5c6c86734daabf4dca0df42eb
+      internalID: -1302150669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_74
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 511
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3bc968cbc859443affd6423bbe2453
+      internalID: -338195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_75
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 511
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03417d5d713e91448b2b056ec5a334c2
+      internalID: -234771205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_76
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 511
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4912e7a683ab9b940ab503eadd2d5bb1
+      internalID: -1586125087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_77
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 511
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a569cb08df989045ac1fe03077b0d31
+      internalID: -1852599542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_78
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 511
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0722b22026ae74f8797bec28f84e4c
+      internalID: 2057534786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_79
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 572
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dba6a7fb8ad81488b4166064d8229c
+      internalID: 370660215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_80
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 511
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb43172c6c30dd4fa8431399636e895
+      internalID: 466304736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_81
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 511
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa72facda5c7af0418a61af04015ef77
+      internalID: 2103481281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_82
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 511
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a2ab69914cd4e4e9403e5babc6dcae
+      internalID: -1621058131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_83
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 535
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b2150db8da0a64c986f7816770a436
+      internalID: -334034001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_84
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 511
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691e52a254ce1f7448c78d56f66bed0b
+      internalID: -1548047440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_85
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 511
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22838188dd5a4543a5a8cb4ef98b924
+      internalID: -664823883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_86
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 511
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7539438b4bdaf8244ae2c4da6c6020f1
+      internalID: 1111338701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_87
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 575
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf71f5e001139b44af45a9777e2865a
+      internalID: 1520507721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_88
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 511
+        width: 67
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9199f75a1dbb4d648b99fa974c49197c
+      internalID: 1578661192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_89
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 511
+        width: 75
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e654d618bc3ca4c8321ee1b9db9d3d
+      internalID: -64321806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_90
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 511
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9d6c2710fada24d8d0771279aeb785
+      internalID: -887819511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_91
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 567
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cdc3edeee38eb47b95da766e527206
+      internalID: 1748348834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_92
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 536
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f11dee8d2ff2974c8f4d63f0a2e59a4
+      internalID: 1601557471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_93
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 384
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ce0b907a1195c45a300f8efc293ede
+      internalID: 1315017728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_94
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 384
+        width: 47
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4b341e2c445154fb4a9de1afb84b2c
+      internalID: -558218445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_95
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 384
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc991daf051bde46bfa46ab72e0f2b5
+      internalID: -1729149385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_96
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 384
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859c326388a04604198e738ee51806f5
+      internalID: 1170302451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_97
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 384
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2468897ba0c78034190fcb394b29cc37
+      internalID: 803806905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_98
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 384
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983befe5630520943aea8016b35c4f9e
+      internalID: 777114703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_99
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 427
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef06d6a611ae5542aef5187673801de
+      internalID: -112379174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_100
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 427
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50f6da90c8075e418641d0a1e6c2de0
+      internalID: 215039157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_101
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 429
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b4d4a6e3f9ed8449e16148a73a7a28
+      internalID: 594179396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_102
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 429
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e086961e8ef09584fa9a69240a76d6da
+      internalID: -1930564747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_103
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 429
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3b6913807def140bfd7374c9c88eac
+      internalID: 1831335731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_104
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 429
+        width: 28
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f645d51590568c4408f37331bbf0d711
+      internalID: 2095188865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_105
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 255
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2a3557928827844af7e42f5b10a628
+      internalID: -419076525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_106
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 255
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b5542262105cc469ee55b5349af91e
+      internalID: 989298163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_107
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 255
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92bfbdcca6a23349ae0959da7e068dd
+      internalID: 1398941045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_108
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 262
+        width: 42
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5541af586fc5b6f43874ba308de5724b
+      internalID: -156356032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_109
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 275
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e77527d37d4124a9a094ac8005cd4e
+      internalID: -238350602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_110
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 259
+        width: 67
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f2dd6f89e148742b14f701b3b59d99
+      internalID: -145187965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_111
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 255
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159f90a4b8d90f6488844ea0764a231f
+      internalID: -161561095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_112
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 255
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17b84239763919498f90e4e9c2477cc
+      internalID: 2132976679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 127
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1486e2b0402d9f4093ffba37d10b75e
+      internalID: 51632849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_114
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 127
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac51a8d91c51b24dbbb58f255c9ba5a
+      internalID: 1424222194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_115
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 127
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e982c063c350cae46816e07d709e8433
+      internalID: -1327961373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_116
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 127
+        width: 43
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e96a20dfeb5a14489991afda35f5b1
+      internalID: -1281251441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6613f8437b0bdb47a33e157874ec2ab
+      internalID: -1128534679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_118
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1890fd26b385044941da413dc0bedd
+      internalID: -1882299859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_119
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 0
+        width: 60
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f526d33e8ec8f9043ae154a96c91adee
+      internalID: -1890556054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wanderer_Magican_Spritelist_120
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 0
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed32e0d65e78ca145953fdb9840077ed
+      internalID: 1581845602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wanderer_Magican_Spritelist_42: -1070511435
+      Wanderer_Magican_Spritelist_55: -1392379453
+      Wanderer_Magican_Spritelist_108: -156356032
+      Wanderer_Magican_Spritelist_33: 202522967
+      Wanderer_Magican_Spritelist_22: -613903615
+      Wanderer_Magican_Spritelist_62: -1495683928
+      Wanderer_Magican_Spritelist_99: -112379174
+      Wanderer_Magican_Spritelist_51: 1733483794
+      Wanderer_Magican_Spritelist_4: -1613464154
+      Wanderer_Magican_Spritelist_98: 777114703
+      Wanderer_Magican_Spritelist_91: 1748348834
+      Wanderer_Magican_Spritelist_66: -1012670672
+      Wanderer_Magican_Spritelist_103: 1831335731
+      Wanderer_Magican_Spritelist_37: -1239687394
+      Wanderer_Magican_Spritelist_38: -1675978477
+      Wanderer_Magican_Spritelist_85: -664823883
+      Wanderer_Magican_Spritelist_70: 1964631982
+      Wanderer_Magican_Spritelist_92: 1601557471
+      Wanderer_Magican_Spritelist_96: 1170302451
+      Wanderer_Magican_Spritelist_117: -1128534679
+      Wanderer_Magican_Spritelist_118: -1882299859
+      Wanderer_Magican_Spritelist_45: -484695243
+      Wanderer_Magican_Spritelist_52: 1770425040
+      Wanderer_Magican_Spritelist_83: -334034001
+      Wanderer_Magican_Spritelist_3: -1325098272
+      Wanderer_Magican_Spritelist_64: -1723567107
+      Wanderer_Magican_Spritelist_94: -558218445
+      Wanderer_Magican_Spritelist_86: 1111338701
+      Wanderer_Magican_Spritelist_1: -2023057056
+      Wanderer_Magican_Spritelist_18: 1789738991
+      Wanderer_Magican_Spritelist_50: 1128773717
+      Wanderer_Magican_Spritelist_71: 1429329820
+      Wanderer_Magican_Spritelist_84: -1548047440
+      Wanderer_Magican_Spritelist_49: -1530661671
+      Wanderer_Magican_Spritelist_63: 1829350696
+      Wanderer_Magican_Spritelist_34: 507767694
+      Wanderer_Magican_Spritelist_67: 724132989
+      Wanderer_Magican_Spritelist_2: 2030947392
+      Wanderer_Magican_Spritelist_82: -1621058131
+      Wanderer_Magican_Spritelist_29: 1769924287
+      Wanderer_Magican_Spritelist_89: -64321806
+      Wanderer_Magican_Spritelist_104: 2095188865
+      Wanderer_Magican_Spritelist_80: 466304736
+      Wanderer_Magican_Spritelist_68: 1269944268
+      Wanderer_Magican_Spritelist_28: 219999349
+      Wanderer_Magican_Spritelist_110: -145187965
+      Wanderer_Magican_Spritelist_26: -1885733439
+      Wanderer_Magican_Spritelist_58: -1371123565
+      Wanderer_Magican_Spritelist_27: 1002628542
+      Wanderer_Magican_Spritelist_31: 1779994312
+      Wanderer_Magican_Spritelist_65: -373054993
+      Wanderer_Magican_Spritelist_69: -1985112953
+      Wanderer_Magican_Spritelist_88: 1578661192
+      Wanderer_Magican_Spritelist_111: -161561095
+      Wanderer_Magican_Spritelist_76: -1586125087
+      Wanderer_Magican_Spritelist_120: 1581845602
+      Wanderer_Magican_Spritelist_109: -238350602
+      Wanderer_Magican_Spritelist_48: 231973621
+      Wanderer_Magican_Spritelist_7: 713944388
+      Wanderer_Magican_Spritelist_44: 1942225932
+      Wanderer_Magican_Spritelist_95: -1729149385
+      Wanderer_Magican_Spritelist_6: 143698095
+      Wanderer_Magican_Spritelist_100: 215039157
+      Wanderer_Magican_Spritelist_102: -1930564747
+      Wanderer_Magican_Spritelist_35: -1027277436
+      Wanderer_Magican_Spritelist_81: 2103481281
+      Wanderer_Magican_Spritelist_107: 1398941045
+      Wanderer_Magican_Spritelist_90: -887819511
+      Wanderer_Magican_Spritelist_5: -1638353641
+      Wanderer_Magican_Spritelist_59: -1551917786
+      Wanderer_Magican_Spritelist_25: -431419426
+      Wanderer_Magican_Spritelist_105: -419076525
+      Wanderer_Magican_Spritelist_116: -1281251441
+      Wanderer_Magican_Spritelist_56: -987694958
+      Wanderer_Magican_Spritelist_17: 1101588253
+      Wanderer_Magican_Spritelist_53: 2061022323
+      Wanderer_Magican_Spritelist_93: 1315017728
+      Wanderer_Magican_Spritelist_20: -214187688
+      Wanderer_Magican_Spritelist_54: 1425803051
+      Wanderer_Magican_Spritelist_77: -1852599542
+      Wanderer_Magican_Spritelist_14: 1093523401
+      Wanderer_Magican_Spritelist_61: -147975449
+      Wanderer_Magican_Spritelist_47: 1533290840
+      Wanderer_Magican_Spritelist_87: 1520507721
+      Wanderer_Magican_Spritelist_101: 594179396
+      Wanderer_Magican_Spritelist_106: 989298163
+      Wanderer_Magican_Spritelist_113: 51632849
+      Wanderer_Magican_Spritelist_115: -1327961373
+      Wanderer_Magican_Spritelist_32: 95002849
+      Wanderer_Magican_Spritelist_78: 2057534786
+      Wanderer_Magican_Spritelist_10: -523521432
+      Wanderer_Magican_Spritelist_16: 1539163464
+      Wanderer_Magican_Spritelist_41: 1204935150
+      Wanderer_Magican_Spritelist_79: 370660215
+      Wanderer_Magican_Spritelist_72: -1123430198
+      Wanderer_Magican_Spritelist_119: -1890556054
+      Wanderer_Magican_Spritelist_19: -501581282
+      Wanderer_Magican_Spritelist_73: -1302150669
+      Wanderer_Magican_Spritelist_15: 382223548
+      Wanderer_Magican_Spritelist_0: -1755629677
+      Wanderer_Magican_Spritelist_30: 1465470260
+      Wanderer_Magican_Spritelist_24: 1929140097
+      Wanderer_Magican_Spritelist_74: -338195
+      Wanderer_Magican_Spritelist_75: -234771205
+      Wanderer_Magican_Spritelist_21: 1692499912
+      Wanderer_Magican_Spritelist_46: 1503447760
+      Wanderer_Magican_Spritelist_39: 936444468
+      Wanderer_Magican_Spritelist_23: 968670196
+      Wanderer_Magican_Spritelist_97: 803806905
+      Wanderer_Magican_Spritelist_11: 1412259389
+      Wanderer_Magican_Spritelist_12: -215635514
+      Wanderer_Magican_Spritelist_40: 30883731
+      Wanderer_Magican_Spritelist_36: 1065239926
+      Wanderer_Magican_Spritelist_60: -76097363
+      Wanderer_Magican_Spritelist_43: 2096803280
+      Wanderer_Magican_Spritelist_112: 2132976679
+      Wanderer_Magican_Spritelist_8: -1625174422
+      Wanderer_Magican_Spritelist_9: 1538668988
+      Wanderer_Magican_Spritelist_13: -1059727358
+      Wanderer_Magican_Spritelist_57: -1286504330
+      Wanderer_Magican_Spritelist_114: 1424222194
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,12 +7,17 @@ public class MainMenu : MonoBehaviour
 {
     public void PlayGame()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
+        SceneManager.LoadScene("Level1");
     }
 
     public void goToMainMenu()
     {
         SceneManager.LoadScene("MainMenu");
+    }
+
+     public void Death()
+    {
+        SceneManager.LoadScene("DeathScreen");
     }
 
     
