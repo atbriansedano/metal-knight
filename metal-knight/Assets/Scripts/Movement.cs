@@ -11,7 +11,6 @@ public class Movement : MonoBehaviour {
 
 	float horizontalMove = 0f;
 	bool jump = false;
-	bool crouch = false;
 
 	// Update is called once per frame
 	void Update () {
@@ -26,14 +25,6 @@ public class Movement : MonoBehaviour {
 			animator.SetBool("Jumping", true);
 		}
 
-		if (Input.GetButtonDown("Crouch"))
-		{
-			crouch = true;
-		} else if (Input.GetButtonUp("Crouch"))
-		{
-			crouch = false;
-		}
-
 	}
 
 	public void OnLanding ()
@@ -41,15 +32,10 @@ public class Movement : MonoBehaviour {
 		animator.SetBool("Jumping", false);
 	}
 
-	public void OnCrouching (bool isCrouching)
-	{
-		animator.SetBool("IsCrouching", isCrouching);
-	}
-
 	void FixedUpdate ()
 	{
 		// Move our character
-		controller.Move(horizontalMove * Time.fixedDeltaTime, crouch, jump);
+		controller.Move(horizontalMove * Time.fixedDeltaTime, jump);
 		jump = false;
 	}
 }

@@ -15,9 +15,9 @@ public class EnemyDamage : MonoBehaviour
         
         if(collision.gameObject.tag == "Player") 
         {
-            animator.SetBool("EnemyAttack", true);
             if (Time.time - lastHit < cooldown)
             {
+                animator.SetBool("EnemyAttack", true);
                 return;
             }
             lastHit = Time.time;
