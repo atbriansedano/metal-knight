@@ -6,6 +6,7 @@ public class Enemy : MonoBehaviour
 {
     //Enemy AI
     public GameObject player;
+    public GameObject enemy;
     public bool flip;
     public float speed;
 
@@ -16,7 +17,7 @@ public class Enemy : MonoBehaviour
     float lastHit;
     public Animator animator;
     public int maxHealth = 100;
-    int currentHealth;
+    public int currentHealth;
     public int enemyDamage;
 
     // Start is called before the first frame update
@@ -43,6 +44,8 @@ public class Enemy : MonoBehaviour
             transform.Translate(speed * Time.deltaTime * -1,0, 0);
         }
 
+        //Animation Speed
+        animator.SetFloat("Speed", Mathf.Abs(speed));
         transform.localScale = scale;
     }
 
@@ -63,8 +66,9 @@ public class Enemy : MonoBehaviour
     void EnemyDie()
     {
         animator.SetBool("IsDead", true);
-        GetComponent<Collider2D>().enabled = false;
+        //GetComponent<Collider2D>().enabled = false;
         this.enabled = false;
+        Destroy(enemy,2);
     }
 
     private void OnCollisionEnter2D(Collision2D collision) {

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1405338670733642568
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8073501565601793622, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567085487180, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511386, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511386, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511386, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -4.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511386, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511386, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511386, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511386, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511386, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511386, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511386, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511386, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511391, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 1887138488704529434, guid: 218fa4efea4cf824cbfe9aeb6403ac97, type: 3}
+    - target: {fileID: 8073501567344511391, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: playerHealth
+      value: 
+      objectReference: {fileID: 6031071813020337147, guid: 218fa4efea4cf824cbfe9aeb6403ac97, type: 3}
+    - target: {fileID: 8073501567344511463, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_Name
+      value: Cultist Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567344511463, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 8073501567485015075, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 611f7fe3f2fb990449f8b5eda8ef4d14, type: 3}

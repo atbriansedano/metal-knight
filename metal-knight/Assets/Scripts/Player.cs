@@ -9,7 +9,7 @@ public class Player : MonoBehaviour
     public Animator animator;
 
     //Character Health
-    public int maxHealth;
+    public int maxHealth = 20;
     public int playerHealth;
 
     //Character Combat
@@ -30,7 +30,6 @@ public class Player : MonoBehaviour
     {
         //Health Feature
         playerHealth = maxHealth;
-
     }
 
     // Update is called once per frame
@@ -91,9 +90,13 @@ public class Player : MonoBehaviour
     //HEALTH FUNCTION
     public void PlayerTakeDamage(int playerDamage)
     {
+        animator.SetTrigger("Hurt");
         playerHealth -= playerDamage;
         if(playerHealth <= 0)
         {
+            animator.SetBool("IsDead", true);
+            this.enabled = false;
+
             SceneManager.LoadScene("DeathScreen");
         }
     }
