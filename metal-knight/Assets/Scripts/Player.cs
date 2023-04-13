@@ -22,7 +22,7 @@ public class Player : MonoBehaviour
     public Controller controller;
     public float runSpeed = 40f;
 	float horizontalMove = 0f;
-	bool jump = false;
+	bool jump = false, block = false;
 
 
     // Start is called before the first frame update
@@ -50,6 +50,15 @@ public class Player : MonoBehaviour
 			jump = true;
 			animator.SetBool("IsJumping", true);
 		}
+
+        if (Input.GetMouseButtonDown(1)){
+            block = true;
+			animator.SetBool("isBlocking", true);
+        }
+        else if (Input.GetMouseButtonUp(1)){
+           block = false;
+		    animator.SetBool("isBlocking", false);
+        }
 
     }
    
