@@ -17,6 +17,8 @@ public class Player : MonoBehaviour
     public float attackRange = 0.5f;
     public LayerMask enemyLayers;
     public int attackDamage = 40;
+    public float attackRate = 2f;
+    float nextAttackTime = 0f;
 
     //Character Movement
     public Controller controller;
@@ -36,10 +38,14 @@ public class Player : MonoBehaviour
     void Update()
     {
         //Character Combat
-        if(Input.GetKeyDown(KeyCode.Mouse0))
+        if(Time.time >= nextAttackTime)
         {
-            Attack();
-        }
+            if(Input.GetKeyDown(KeyCode.Mouse0))
+            {
+                Attack();
+                nextAttackTime = Time.time + 1f/ attackRate;
+            }
+        }    
 
         //Character Movement
         horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
@@ -59,6 +65,11 @@ public class Player : MonoBehaviour
            block = false;
 		    animator.SetBool("isBlocking", false);
         }
+
+    }
+
+    public void Block()
+    {
 
     }
    
