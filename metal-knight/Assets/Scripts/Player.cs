@@ -120,4 +120,9 @@ public class Player : MonoBehaviour
             SceneManager.LoadScene("DeathScreen");
         }
     }
+
+    public void AddHealth()
+    {
+        playerHealth = maxHealth;
+    }
 }

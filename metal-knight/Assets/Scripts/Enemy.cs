@@ -20,9 +20,13 @@ public class Enemy : MonoBehaviour
     public int currentHealth;
     public int enemyDamage;
 
+    //Points
+    public Points points;
+
     // Start is called before the first frame update
     void Start()
     {
+        points = GameObject.Find("KCounter").GetComponent<Points>();
         //Enemy Combat Feature
         currentHealth = maxHealth;
     }
@@ -69,6 +73,8 @@ public class Enemy : MonoBehaviour
         //GetComponent<Collider2D>().enabled = false;
         this.enabled = false;
         Destroy(enemy,2);
+        points.IncreasePoints(1);
+
     }
 
     private void OnCollisionEnter2D(Collision2D collision) {
