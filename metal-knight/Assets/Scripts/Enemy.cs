@@ -63,7 +63,6 @@ public class Enemy : MonoBehaviour
         if(currentHealth <= 0)
         {
             EnemyDie();
-            
         }
     }
     
@@ -72,8 +71,9 @@ public class Enemy : MonoBehaviour
         animator.SetBool("IsDead", true);
         //GetComponent<Collider2D>().enabled = false;
         this.enabled = false;
-        Destroy(enemy,2);
+        Destroy(enemy,1);
         points.IncreasePoints(1);
+
 
     }
 
