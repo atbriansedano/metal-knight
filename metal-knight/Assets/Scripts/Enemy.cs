@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement; 
 
 public class Enemy : MonoBehaviour
 {
@@ -22,6 +23,9 @@ public class Enemy : MonoBehaviour
 
     //Points
     public Points points;
+
+    //BOSS
+    public bool isBoss = false;
 
     // Start is called before the first frame update
     void Start()
@@ -71,9 +75,12 @@ public class Enemy : MonoBehaviour
         animator.SetBool("IsDead", true);
         //GetComponent<Collider2D>().enabled = false;
         this.enabled = false;
+        if(isBoss == true)
+        {
+            SceneManager.LoadScene("End");
+        }
         Destroy(enemy,1);
         points.IncreasePoints(1);
-
 
     }
 
